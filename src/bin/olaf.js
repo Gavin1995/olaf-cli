@@ -29,7 +29,7 @@ program
   .option('--project-name <project name>', '项目名称（如:nodejs-react-example-web）')
   .option('--author <author>', '作者英文名(如:Gavin)')
   .option('--description <description>', '项目描述')
-  .option('--type <type>', '项目类型')
+  .option('--type <type>', '使用场景')
   .option('--useScene <useScene>', '核心框架')
   .action(async (option) => {
     const config = {

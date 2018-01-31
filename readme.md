@@ -1,5 +1,10 @@
 ![](https://github.com/Gavin1995/olaf-react-next-pc/blob/master/static/cdn/img/logo-green.png)
 
+[![npm version](https://img.shields.io/npm/v/olaf-cli.svg?style=flat)](https://www.npmjs.com/package/olaf-cli)
+[![npm downloads](https://img.shields.io/npm/dm/olaf-cli.svg?style=flat)](https://www.npmjs.com/package/olaf-cli)
+[![repo size](https://img.shields.io/github/repo-size/Gavin1995/olaf-cli.svg)](https://github.com/Gavin1995/olaf-cli)
+[![license](https://img.shields.io/github/license/Gavin1995/olaf-cli.svg)](https://github.com/Gavin1995/olaf-cli)
+
 # Olaf Cli
 Olaf(奥拉夫)：项目初始化工具，接下来会加入React Native(expo)项目与触屏版项目的支持，敬请期待:blush:
 ![](https://github.com/Gavin1995/olaf-cli/blob/master/olaf-cli.png)
